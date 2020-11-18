@@ -1,0 +1,26 @@
+{
+    "clientAreaLinkLoad": {
+        "type": "C",
+        "class": "\\IPS\\Data\\Store\\Database"
+    },
+    "clientAreaLink": {
+        "type": "S",
+        "class": "\\IPS\\Theme\\class_core_front_global"
+    },
+    "frontDispatcher": {
+        "type": "C",
+        "class": "\\IPS\\Dispatcher\\Front"
+    },
+    "DispatcherAdmin": {
+        "type": "C",
+        "class": "\\IPS\\Dispatcher\\Admin"
+    },
+    "register": {
+        "type": "C",
+        "class": "\\IPS\\core\\modules\\front\\system\\register"
+    },
+    "Database": {
+        "type": "C",
+        "class": "\\IPS\\Data\\Store\\Database"
+    }
+}
